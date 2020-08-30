@@ -22,7 +22,7 @@ Sektions- och styrelseaktiviteterna bedöms av respektive sektion/styrelsen. Res
     - gatusten från Tjeckien
 - [ ] Förklara varför Staben aldrig är sten
 - [x] Visa en mops för Lilith
-    - [Moppsen](images/2020-08-26 - 18.17.49, Moppsen [danne] [ellie] [ylva].jpg)
+    - [Moppsen](images/2020-08-26%20-%2018.17.49,%20Moppsen%20[danne]%20[ellie]%20[ylva].jpg)
 - [ ] Raida på Pokemon Go med Lilith
 - [ ] Gör ett trick för Sarkana
 - [ ] Spela Seterra med Sarkana
