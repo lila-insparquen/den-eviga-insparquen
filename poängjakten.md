@@ -11,18 +11,18 @@ Sektions- och styrelseaktiviteterna bedöms av respektive sektion/styrelsen. Res
 - [ ] Framför stabsvisan för Staben. Pluspoäng för inkluderade instrument.
 - [ ] Förklara med ett videoinlägg hur barn blir till på ett sätt som endast Staben kan förstå.
 - [x] Skapa en figur av material från naturen till Staben.
-    - [Moppsen](images/2020-08-26 - 18.17.49, Moppsen [danne] [ellie] [ylva].jpg)
+    - [Moppsen](https://github.com/lila-insparquen/den-eviga-insparquen/raw/master/images/2020-08-26%20-%2018.17.49%2C%20Moppsen%20%5Bdanne%5D%20%5Bellie%5D%20%5Bylva%5D.jpg)
 - [ ] Spexa för Staben
 - [ ] Gör ett porträtt av Staben
 - [ ] Bjud med Vimmelkant på en jakt
 - [x] Tolka Ful och Ensam i en bild
-    - [gåva till Vimmelkant](images/2020-08-28 - 12.48.30, tolknings av ful och ensam), [tolknings av Ful och Ensam](images/2020-08-28 - 12.51.52, tolkning av ful och ensam [lilith] [vimmelkant].jpg)
+    - [gåva till Vimmelkant](https://github.com/lila-insparquen/den-eviga-insparquen/raw/master/images/2020-08-28%20-%2012.48.30%2C%20tolknings%20av%20ful%20och%20ensam.jpg), [tolknings av Ful och Ensam](https://github.com/lila-insparquen/den-eviga-insparquen/raw/master/images/2020-08-28%20-%2012.51.52%2C%20tolkning%20av%20ful%20och%20ensam%20%5Blilith%5D%20%5Bvimmelkant%5D.jpg)
 - [ ] Kom på 10 användningsområden för Kåras sköld.
 - [x] Ge Kåra en fin sten. Pluspoäng för kreativitet.
     - gatusten från Tjeckien
 - [ ] Förklara varför Staben aldrig är sten
 - [x] Visa en mops för Lilith
-    - [Moppsen](images/2020-08-26%20-%2018.17.49,%20Moppsen%20[danne]%20[ellie]%20[ylva].jpg)
+    - [Moppsen](https://github.com/lila-insparquen/den-eviga-insparquen/raw/master/images/2020-08-26%20-%2018.17.49%2C%20Moppsen%20%5Bdanne%5D%20%5Bellie%5D%20%5Bylva%5D.jpg)
 - [ ] Raida på Pokemon Go med Lilith
 - [ ] Gör ett trick för Sarkana
 - [ ] Spela Seterra med Sarkana
